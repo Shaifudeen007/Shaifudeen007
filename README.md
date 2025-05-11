@@ -34,7 +34,7 @@ I love solving coding challenges and participating in contests:
 - 🧪 Building meaningful side projects and open-source contributions
 
 
-### 📫 Let's Connect
+
 ### 📫 Let's Connect
 
 - [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](shaifshaif144gmail.com)
