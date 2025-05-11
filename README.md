@@ -4,7 +4,6 @@
 
 I enjoy creating user-friendly interfaces and sharpening my problem-solving skills through competitive programming. I'm eager to learn and constantly exploring new technologies to grow as a developer.
 
----
 
 ### 🛠️ Languages & Tools
 
@@ -18,7 +17,7 @@ I enjoy creating user-friendly interfaces and sharpening my problem-solving skil
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
----
+
 
 ### 📈 Competitive Programming
 
@@ -26,7 +25,7 @@ I love solving coding challenges and participating in contests:
 - 🧠 [Skillrack](https://www.skillrack.com/)
 - 🧠 [HackerRank](https://www.hackerrank.com/)
 
----
+
 
 ### 🚀 Current Goals
 
@@ -38,10 +37,10 @@ I love solving coding challenges and participating in contests:
 
 ### 📫 Let's Connect
 
-- 📧 Email: your.email@example.com
+- 📧 Email: shaifshaif144@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/yourprofile) *(replace with your link)*
 - 🌐 Portfolio: Coming soon!
 
 ---
 
-> “The best way to predict the future is to invent it.” – Alan Kay
+*“Code is like humor. When you have to explain it, it’s bad.”
