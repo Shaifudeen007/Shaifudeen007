@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Shaif
+## Hi there 👋, I'm Shaif
 
 🎓 I'm a third-year Computer Science Engineering student passionate about front-end development, clean code, and solving real-world problems with Java and Python.
 
@@ -33,14 +33,14 @@ I love solving coding challenges and participating in contests:
 - 📚 Deepening my knowledge in full-stack development
 - 🧪 Building meaningful side projects and open-source contributions
 
----
 
 ### 📫 Let's Connect
+### 📫 Let's Connect
 
-- 📧 Email: shaifshaif144@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/yourprofile) *(replace with your link)*
+- [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](shaifshaif144gmail.com)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/mohamed-shaifudeen-632985268)
 - 🌐 Portfolio: Coming soon!
 
----
+
 
 *“Code is like humor. When you have to explain it, it’s bad.”
