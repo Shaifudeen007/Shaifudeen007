@@ -1,19 +1,19 @@
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<h1 align="center">Hi 👋, I'm Mohamed shaifudeen </h1>
 <h3 align="center">🚀 Final Year Computer Science Engineering Student | Aspiring Software Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Final+Year+Engineering+Student;Tech+Enthusiast+%F0%9F%9A%80;Problem+Solver+%F0%9F%92%BB;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Final+Year+Engineering+Student;Tech+Enthusiast+%F0%9F%9A%80;Problem+Solver+%F0%9F%92%BB;Open+Source+Contributor+%F0%9F%92%BB;Java+Developer" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🎓 Final Year CSE student at [Your College Name]
-- 🧠 Passionate about **Java Development**, **Cloud Computing**, and **Cybersecurity**
+- 🎓 Final Year CSE student at E.G.S. Pillay Engineering college
+- 🧠 Passionate about **Java Development**, **Artificial Intelligence**, and **Cybersecurity**
 - 🛠️ Currently building: `AI-Driven Automated Penetration Testing Framework`
 - 💼 Actively seeking internship/full-time opportunities in Software Development
-- 📫 How to reach me: [your.email@example.com](mailto:your.email@example.com)
+- 📫 How to reach me: [shaifshaif144@.com]
 
 ---
 
