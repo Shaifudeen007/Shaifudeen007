@@ -67,7 +67,7 @@
 ---
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Shaifudeen007&theme=onedark&row=1&margin-w=10&no-frame=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Shaifudeen007&theme=onedark&no-frame=true&row=1" />
 </p>
 
 <p align="center">
