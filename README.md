@@ -13,7 +13,7 @@
 - 🧠 Passionate about **Java Development**, **Artificial Intelligence**, and **Cybersecurity**
 - 🛠️ Currently building: `AI-Driven Automated Penetration Testing Framework`
 - 💼 Actively seeking internship/full-time opportunities in Software Development
-- 📫 How to reach me: [shaifshaif144@.com]
+- 📫 How to reach me: [shaifshaif144@gmail.com]
 
 ---
 
@@ -41,10 +41,9 @@
 > Real-time mobile phone detection in restricted areas using image processing and deep learning.  
 > `YOLOv8 · OpenCV · Email Alerting · Real-time Logging`
 
-🔹 [**Cloud CRM Platform**](https://github.com/your-username/cloud-crm)  
-> Multi-tenant CRM with Spring Boot, Docker, and AWS for scalable client management.  
-> `Spring Boot · PostgreSQL · Docker · Microservices`
-
+🔹 [**AI Penetration Testing Framework**](https://github.com/your-username/ai-penetration-testing-framework)  
+> Automates network security checks using intelligent agents.  
+> `Python · Nmap · Vulnerability Scanning · Reporting`
 
 ---
 
@@ -68,9 +67,9 @@
 ---
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=onedark&row=1&margin-w=10&no-frame=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Shaifudeen007&theme=onedark&row=1&margin-w=10&no-frame=true" />
 </p>
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=your-username" alt="visitor badge"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Shaifudeen007" alt="visitor badge"/>
 </p>
