@@ -37,7 +37,7 @@
 
 ### 🚀 Featured Projects
 
-🔹 [**Mobile Detection System (YOLOv8)**](https://github.com/your-username/mobile-detection-system)  
+🔹 [**Mobile Detection System (YOLOv8)**](https://github.com/Shaifudeen007/Mini_Project_Mobile_Detection_System)  
 > Real-time mobile phone detection in restricted areas using image processing and deep learning.  
 > `YOLOv8 · OpenCV · Email Alerting · Real-time Logging`
 
@@ -57,9 +57,9 @@
 ### 🔗 Connect With Me
 
 <p align="left">
-<a href="https://linkedin.com/in/your-profile" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
+<a href="www.linkedin.com/in/mohamed-shaifudeen-632985268" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
 <a href="https://twitter.com/yourhandle" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" /></a>
-<a href="mailto:your.email@example.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" /></a>
+<a href="mailto:shaifshaif144@gamil.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" /></a>
 </p>
 
 ---
