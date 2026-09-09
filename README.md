@@ -35,8 +35,6 @@ I enjoy working across the stack — from designing responsive interfaces and RE
 * 🚀 Passionate about turning ideas into production-ready applications
 * 📚 Currently improving **System Design, Backend Architecture & Advanced Java**
 
-> **Build. Learn. Improve. Repeat.**
-
 ---
 
 ## 🛠️ Tech Stack
@@ -100,55 +98,6 @@ YOLOv8 · OpenCV · Machine Learning · LLMs · RAG · Prompt Engineering · AI 
 🔐 Security Applications
    └── Vulnerability Scanning • Reconnaissance • Security Automation
 ```
-
----
-
-## 🚀 Featured Projects
-
-### 🔐 AI-Driven Penetration Testing Framework
-
-An automated security assessment framework designed to streamline reconnaissance, scanning, vulnerability identification, and security reporting.
-
-**Tech:** Python · Nmap · Nikto · CVE Analysis · Security Automation
-
-**Key capabilities:**
-
-* Network & port scanning
-* Service enumeration
-* OS detection
-* Vulnerability identification
-* CVE matching
-* Web security scanning
-* DNS leakage analysis
-* Automated security reporting
-
----
-
-### 📱 Mobile Detection System
-
-AI-powered computer vision system designed to detect mobile phones in restricted environments.
-
-**Tech:** Python · YOLOv8 · OpenCV
-
-🔗 [View Project](https://github.com/Shaifudeen007/Mini_Project_Mobile_Detection_System)
-
----
-
-### 🛍️ Full-Stack E-Commerce Platform
-
-A complete e-commerce solution with product management, authentication, cart functionality, cloud image storage, and online payments.
-
-**Tech:** React · TypeScript · Supabase · Cloudinary · Razorpay
-
-**Features:**
-
-* 🔐 Authentication
-* 🛒 Shopping cart
-* 📦 Product management
-* 🖼️ Cloud image storage
-* 💳 Online payments
-* 👨‍💼 Admin dashboard
-* 🔒 Secure payment verification
 
 ---
 
@@ -248,7 +197,5 @@ I believe the best way to learn technology is to **build real things with it**.
 </p>
 
 <h3 align="center">
-
-⚡ Building today. Engineering tomorrow. ⚡
-
+  ⚡ Turning ideas into software, one commit at a time.
 </h3>
