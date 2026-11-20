@@ -58,6 +58,6 @@ I'm an Associate Software Engineer passionate about building practical, reliable
 ## Connect With Me
 
 - **Portfolio:** https://portfolio-mdshaif.vercel.app/
-- **LinkedIn:** https://www.linkedin.com/in/mohamed-shaifudeen-632985268/
+- **LinkedIn:** www.linkedin.com/in/mohamed-shaifudeen-r-1a6444399
 - **GitHub:** https://github.com/Shaifudeen007
 - **Email:** shaifshaif144@gmail.com
