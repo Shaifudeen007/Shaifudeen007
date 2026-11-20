@@ -23,7 +23,7 @@ I'm an Associate Software Engineer passionate about building practical, reliable
 
 **Backend:** Spring Boot, Node.js, Express
 
-**Databases:** PostgreSQL, MongoDB, Supabase
+**Databases:** PostgreSQL, MongoDB, Supabase, SQL
 
 **Tools & Cloud:** Git, GitHub, AWS, Docker, Kubernetes, Vercel
 
